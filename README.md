@@ -4,6 +4,8 @@
 
 Debounce middleware for [Redux](https://github.com/rackt/redux).
 
+Winmore forked this since an unmerged PR will fix a bug we are having, and the PR has been open for over a year. No other changes have been made.
+
 ## What's debounce?
 
 Debounce allows you to discard a fast paced action from updating your state until a certain period of time passes after the last action is fired.
